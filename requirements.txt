@@ -1,4 +1,7 @@
-django
-djangorestframework
+django~=4.2.7
+djangorestframework~=3.14.0
 djangorestframework-simplejwt
-requests
+requests~=2.31.0
+djangorestframework-jwt~=1.11.0
+django-cors-headers
+PyJWT~=1.7.1
